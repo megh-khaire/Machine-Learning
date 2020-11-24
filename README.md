@@ -1,2 +1,2 @@
-# Machine-Learning-Datasets
-Repository to store datasets for Machine Learning Models
+# Machine-Learning
+This repository contains a collection of Jupyter notebooks and machine learning datasets 
